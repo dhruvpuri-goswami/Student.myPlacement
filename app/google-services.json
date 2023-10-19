@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620676985264",
+    "project_id": "myplacement-2cfd2",
+    "storage_bucket": "myplacement-2cfd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620676985264:android:4e521ed4835bb3b38b6675",
+        "android_client_info": {
+          "package_name": "com.example.myplacement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmPw8flom8jh1AOrlzl62KxyzEzk0bx5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

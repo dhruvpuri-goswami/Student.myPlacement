@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">myPlacement</string>
+    <string name="priv_text">By signing up, You\'re agree to our, </string>
+    <string name="privacy"> Terms &amp; Conditions </string>
+    <string name="and"> and </string>
+    <string name="policy">Privacy Policy</string>
+    <string name="forget_pass_firstline">Don\'t worry! It happens.Please enter the</string>
+    <string name="forget_pass_secondline">address associated with your account.</string>
+    <string name="otp_first_line">An 6 digit code has been sent to</string>
+    <string name="key">AIzaSyClLlLvZP4vQp2bo9Uih0-f_2LYeE2qhiQ</string>
+
+</resources>
